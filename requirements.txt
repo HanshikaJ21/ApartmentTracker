@@ -7,3 +7,4 @@ schedule
 colorama
 streamlit
 plotly
+psycopg2-binary
